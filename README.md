@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Dev Projects<br>👯 I’m looking to collaborate on Web dev Projects<br>🌱 I’m currently learning MERN<br>💬 Ask me about React<br>⚡ Fun fact : I learn faster by building 🚀<br>My Portfolio : https://portfolio-sarthak-gupta.vercel.app/
+🔭 I’m currently working on Web Dev Projects<br>👯 I’m looking to collaborate on Web dev Projects<br>🌱 I’m currently learning MERN<br>💬 Ask me about React<br>⚡ Fun fact : I learn faster by building 🚀<br>My 
 
 
 ## 🌐 Socials:
